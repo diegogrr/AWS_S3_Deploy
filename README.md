@@ -1,1 +1,1 @@
-# Deploy no Amazon S3 utilizando o Github Action
+# Deploy no Amazon S3 utilizando o Github Action.
